@@ -25,7 +25,7 @@ Contained in here is an analysis of the results from the regimen used and a brie
 ![Duplicate](https://github.com/mmarange/matplotlib_challenge/blob/main/01-Case-Assignment/Images/Duplicated%20Mouse.PNG)
 
 ### Fig 2: Figure showing statistical summary accross drug regimen
-![Stats2](https://github.com/mmarange/matplotlib_challenge/blob/main/01-Case-Assignment/Images/Statistical%20Results.PNG)
+![Stats2](https://github.com/mmarange/matplotlib_challenge/blob/main/01-Case-Assignment/Images/Statistical%20Results2.PNG)
 
 ### Fig 3: Figure showing the bar chart of total number of mice tested on each drug regimen
 ![BarChart](https://github.com/mmarange/matplotlib_challenge/blob/main/01-Case-Assignment/Images/BarChart%20Mice%20tested%20on%20regimen.PNG)
