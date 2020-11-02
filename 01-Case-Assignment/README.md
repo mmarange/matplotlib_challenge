@@ -8,10 +8,12 @@ In this study, 249 mice identified with SCC tumor growth were treated through a 
 
 Contained in here is an analysis of the results from the regimen used and a brief interpretation of the analysis. 
 
-## Summary of Analysis
-* One mouse with ID was removed from the analysis because of duplicates at Timepoint yet different Tumor Volume recorded at the same timepoint hence making the result unrealiable.
-* 
-*
+# Summary of Analysis
+    * One mouse with ID was removed from the analysis because of duplicates at Timepoint yet different  Tumor Volume recorded at the same timepoint hence making the result unrealiable.
+    * Capomulin and Ramicane had the highest number of mice tested 
+    * There are more male mice than female mice in the test at 51% male and 49% female
+    * Tests for Capomulin, Ramicane, and Ceftamin are consitent because their results are devoid of any potential outliers, whereas Infubinol only has one potential outlier.
+    * From the statistical table Ramicane was the best regimen followed by Capomulin because they had the lowest tumor volume at the end of the tests respectively. In addition to a low standard deviation which means that the results show drug precision and consistancy. 
 
 ## Results
 
