@@ -1,2 +1,2 @@
 # matplotlib_challenge
-Contains matplotlib mini projects, case assignments and minis
+* Contains matplotlib mini project and matplotlib case assignment.
