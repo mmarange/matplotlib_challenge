@@ -13,7 +13,7 @@ Contained in here is an analysis of the results from the regimen used and a brie
 * Capomulin and Ramicane had the highest number of mice tested 
 * There are more male mice than female mice in the test at 51% male and 49% female
 * Tests for Capomulin, Ramicane, and Ceftamin are consitent because their results are devoid of any potential outliers, whereas Infubinol only has one potential outlier.
-* From the statistical table Ramicane was the best regimen followed by Capomulin because they had the lowest tumor volume at the end of the tests respectively. In addition to a low standard deviation which means that the results show drug precision and consistancy. 
+* From the statistical table Ramicane was the best regimen followed by Capomulin because they had the lowest tumor volume at the end of the tests respectively. In addition, results from Ramicane and Capomulin had the lowest standard deviations respectively which means that the results show drug precision and consistancy. 
 
 ## Results
 

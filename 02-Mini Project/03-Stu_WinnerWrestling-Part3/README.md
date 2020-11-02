@@ -1,7 +1,5 @@
 # Winner Wrestling, Part 3
-
-See the [Jupyter Notebook file](Unsolved/winning_wrestlers.ipynb) for activity instructions.
-
+Ploting exercise: Done successfully
 - - -
 
 © 2019 Trilogy Education Services
